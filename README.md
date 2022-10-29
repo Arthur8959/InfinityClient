@@ -1,13 +1,13 @@
 # InfinityClient
 [![Discord](https://img.shields.io/badge/chat-on%20discord-brightgreen.svg)](https://discord.gg/P3YvxxE5Dt)
 
-## A 1.16.5 Minecraft utility mod for bypass.
+## A 1.12.2 Minecraft utility mod for bypass.
 
 ## Installing
 
 InfinityClient is a forge mod. Download the [latest release](#downloading), or preferably, [**build it yourself**](#building). 
 
-Download and run the installer for Forge from [here](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html).
+Download and run the installer for Forge from [here](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html).
 
 Move the InfinityClient jar file to the `mods` folder in your `.minecraft` directory.
 
@@ -26,13 +26,12 @@ To ask for help, join the [Discord](https://discord.gg/P3YvxxE5Dt).
 
 Note: You need to be logged into GitHub to do this. If you don't want to login, [build](#building) your own jar, or download the latest from [releases](https://github.com/Arthur8959/InfinityClient/releases/latest). 
 
-1. Go to the [Actions](https://github.com/Arthur8959/InfinityClient/actions) tab
-2. Click on the latest action
-3. Click on "Infinity Client Artifacts archive"
-4. Extract downloaded zip file
+1. Install forge 1.12.2
+2. Open the .zip and extract to the desktop all files
+3. Open Infinity-Loader for get requirements
+3. Move InfinityClient b9.jar to your mod folder in your .minecraft folder
+4. Launch Minecraft
 5. [Install](#installing)
-
-If you get a 404 error after following step 3, you're not logged in to GitHub.
 
 <details>
  <summary>Images</summary>
