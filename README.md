@@ -31,7 +31,6 @@ Note: You need to be logged into GitHub to do this. If you don't want to login, 
 3. Open Infinity-Loader for get requirements
 3. Move InfinityClient b9.jar to your mod folder in your .minecraft folder
 4. Launch Minecraft
-5. [Install](#installing)
 
 <details>
  <summary>Images</summary>
