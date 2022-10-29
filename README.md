@@ -1,13 +1,13 @@
 # InfinityClient
 [![Discord](https://img.shields.io/badge/chat-on%20discord-brightgreen.svg)](https://discord.gg/P3YvxxE5Dt)
 
-## A 1.16.5 Minecraft utility mod for anarchy servers.
+## A 1.16.5 Minecraft utility mod for bypass.
 
 ## Installing
 
-InfinityClient is a fabric mod. Download the [latest release](#downloading), or preferably, [**build it yourself**](#building). 
+InfinityClient is a forge mod. Download the [latest release](#downloading), or preferably, [**build it yourself**](#building). 
 
-Download and run the installer for Fabric from [here](https://fabricmc.net/use/) if you do not have it already. InfinityClient does not require Fabric API.
+Download and run the installer for Forge from [here](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html).
 
 Move the InfinityClient jar file to the `mods` folder in your `.minecraft` directory.
 
@@ -61,5 +61,3 @@ If you get a 404 error after following step 3, you're not logged in to GitHub.
 ## Thank you
 
 The [Minecraft Forge team](https://github.com/MinecraftForge) for [Forge](https://files.minecraftforge.net/)
-
-The [Fabric Team](https://github.com/FabricMC) for [Fabric](https://github.com/FabricMC/fabric-loader) and [Yarn](https://github.com/FabricMC/yarn)
