@@ -5,7 +5,7 @@
 
 ## Installing
 
-InfinityClient is a forge mod. Download the [latest release](#downloading), or preferably, [**build it yourself**](#building). 
+InfinityClient is a forge mod. Download the [latest release](#downloading). 
 
 Download and run the installer for Forge from [here](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html).
 
